@@ -1,6 +1,6 @@
 # 🐍 Snakes and Ladders Game 🎲
 
-A modern implementation of the classic Snakes and Ladders board game with enhanced features and an AI opponent.
+A modern implementation of the classic Snakes and Ladders board game with enhanced features and an AI opponent using React.
 
 ## ✨ Features
 
@@ -17,24 +17,8 @@ A modern implementation of the classic Snakes and Ladders board game with enhanc
 
 ## 🚀 Installation
 
-### Backend Setup (Python/Flask)
 
-```bash
-mkdir backend
-cd backend
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# venv\Scripts\activate  # Windows
-
-# Install dependencies
-pip install flask flask-cors
-
-# Start backend server
-python app.py
-```
-
-### Frontend Setup (React)
+### Project Setup (React)
 
 ```bash
 cd frontend
@@ -57,17 +41,13 @@ npm run dev
 
 ## 🛠️ Technology Stack
 
-### Frontend:
+### Project:
 - React 18
 - Tailwind CSS
 - react-modal
 - canvas-confetti
 - use-sound
 
-### Backend:
-- Python 3.9+
-- Flask
-- Flask-CORS
 
 ### Dev Tools:
 - Vite
